@@ -2612,6 +2612,8 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+		
+		
 
 /* List */
 
@@ -3048,7 +3050,7 @@ input, select, textarea {
 			-ms-justify-content: center;
 			justify-content: center;
 			width: 50em;
-			-ms-flex: 1;
+			/* -ms-flex: 1; */
 		}
 
 			.spotlights > section > .content > .inner {
